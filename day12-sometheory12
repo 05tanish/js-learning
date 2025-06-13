@@ -1,0 +1,10 @@
+global JavaScript is a single threaded 
+ !three type of exuction 
+  global execution context,
+functional execution context ,
+eval execution context 
+
+
+Memory creation
+! -----> learn about how javascript run code about its execution code and its call stack 
+
