@@ -4,7 +4,32 @@ global JavaScript is a single threaded
 functional execution context ,
 eval execution context 
 
-
+                              
 Memory creation
 ! -----> learn about how javascript run code about its execution code and its call stack 
 
+object is unordered collection of properties where wch property has an key and value 
+
+eval function evaluates the string as javascript code as eval("10*10+5") will be equal to 105 not 10*10+5
+in javscrit polyfils is a technique for filling gaps in browser support 
+
+string+number will be equal to  string 
+javascript is scripting language 
+
+.slice is a method of javscript that returns shallow copy of an array into new array of object selected from start to end (end is not included)
+
+
+destructing in javascript  lets you unpack value forom array and assign thgem to variable in al single line 
+
+splice is used to remove and replacing element in array
+
+pop is made to remove last element and aplice also remove element but its used for general purpose including last one 
+
+char at (index) returns the character  and char code at(index)it returns  unicode (ascii) number 
+
+ascii value of  'A'- 'Z' starts  from 65 to 90 
+ascii value of 'a'  - 'z' starts  from 97 to 122
+ascii value of digits 0 to 9  starts  from  '0' = 48 to '9'=57
+javascript is scriptin language 
+
+in javascript anything after return is never executed but it will aso not give error code will run smothly 
